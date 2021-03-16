@@ -228,6 +228,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Antvel](https://github.com/ant-vel/antVel) - Package for building e-commerce applications with Laravel. \[12/16/2016\]
 - [Amazon ECS (E-Commerce Services)](https://github.com/JoeDawson/amazon-ecs) - Package to allow searching the Amazon product catalog. \[12/18/2015\]
 - [AvoRed](https://github.com/avored/laravel-ecommerce) - Full-featured e-commerce platform built on Laravel. \[07/09/2018\]
+- [Bagisto](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business. \[10/30/2018\]
+- [GetCandy] Hub - (https://hub-docs.getcandy.io/getting-started/installation) - FCreate exactly the online store you need with Headless E-Commerce. No more Magento or WooCommerce hell - build your system using the GetCandy API. \[11/16/2020\]
 - [Grafite Commerce](https://github.com/GrafiteInc/Commerce) - Full-fledged e-commerce package that includes support subscriptions, electronic downloads, and more. \[06/25/2018\]
 - [LaraCart](https://github.com/lukepolo/laracart/) - Fully-featured shopping cart package for Laravel. \[03/30/2017\]
 - [Laragento](https://github.com/develpr/laragento) - A Laravel + [Magento](http://magento.com/) mashup, for directly accessing Magento data via RESTful API provided by Laravel. \[10/12/2015\]
