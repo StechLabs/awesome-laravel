@@ -12,6 +12,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Spatie](https://spatie.be/en/opensource/laravel) - A large collection of Laravel specific quality packages made by Spatie.
 
 ### Admin Tools/Panels
+- [Volt Laravel](https://github.com/themesberg/volt-laravel-dashboard) - Full Stack Laravel App using LiveWire & Alpine JS based on the most popular Bootstrap 5 Admin Dashboard Interface
 - [Backpack for Laravel](https://backpackforlaravel.com/) - Set of modular packages for building admin interfaces for Laravel based on [Admin LTE](https://github.com/almasaeed2010/AdminLTE/). \[10/01/2016\]
 - [Laralum](https://github.com/ConsoleTVs/Laralum) - Simple admin panel with database CRUD support and built-in support for Laravel Auth. \[09/06/2016\]
 - [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]
@@ -19,7 +20,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Admin Starter](https://github.com/jamesmills/laravel-admin) - Minimalist admin panel for managing users, roles, and permissions.
 - [Laravel Administrator](https://github.com/FrozenNode/Laravel-Administrator/) - An administrative interface builder for Laravel that allows you to visually manage your Eloquent models and their relations and create stand-alone settings pages for storing site data and performing site tasks.
 - [Laravel Totem](https://github.com/codestudeo/laravel-totem) - A nice dashboard for managing Laravel scheduler tasks. \[08/25/2017\]
-- [Orchid](https://theorchid.github.io/en/) - A package for Laravel which helps with the administration of the application on Laravel, allowing you to write code as you want, control of routing/themes/plugins/etc - none of this and will not be! The package only gives a good set of tools that will be in demand in almost every project. \[07/13/2017\]
+- [Laravel Orchid](https://github.com/orchidsoftware/platform) - Orchid is a free Laravel package that abstracts standard business logic and allows code-driven rapid application development of back office applications, admin/user panels and dashboards. \[01/12/2021\]
+- [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout. \[09/30/2021\]
 - [UserFrosting](http://www.userfrosting.com) - A web framework and fully implemented user management application that uses Laravel's ORM and cache components.  The Sprinkle system allows you to easily and cleanly extend the core codebase with the custom features that your application requires.
 - [Voyager](https://github.com/the-control-group/voyager) - Comprehensive Laravel admin package with support for CRUD administration of database, menu editor, media manager and more. \[11/01/2016\]
 
@@ -102,6 +104,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Zero](https://github.com/laravel-zero/laravel-zero) - Customized version of Laravel optimized for building console/shell/command-line applications. \[06/27/2017\]
 - [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 5.4 configuration with email registration verification, social authentication, user roles and permissions, user profiles, and user management system. \[08/19/2017\]
 - [Laravel/Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
+- [Lucid](https://github.com/lucidarch/lucid) - Lucid provides an architectural framework on top of Laravel for building scalable applications, with focus on domain-driven design and service-orientation. \[10/08/2021\]
 - [Owl](https://github.com/kjdion84/owl) - Laravel 5.5 configuration with CRUD generator, roles/permissions, Bootstrap 4, DataTables, and much more. \[09/05/2017\]
 - [React-Redux-Laravel](https://github.com/onerciller/react-redux-laravel#react-redux-laravel) - Boilerplate blog application for a Laravel JWT Backend and a React/Redux Front-End with Bootstrap 4. \[06/06/2016\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
@@ -110,6 +113,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Turtle](https://github.com/kjdion84/turtle) - Laravel 5.5 package with front & backend scaffolding including a CRUD generator, auth integration, roles, permissions, contact forms, reCAPTCHA, activity logs, demo mode, user timezones, AJAX CRUD/validation, Bootstrap 4, DataTables, & more. \[09/18/2017\]
 - [UIkit UI preset](https://github.com/Torrix/laravel-ui-uikit) - UI preset for Laravel 6 that bundles UIkit and Vue.js \[09/16/2019\]
 - [Watts](https://github.com/YABhq/Watts) - Custom configuration with tools for developing microservices using Lumen. \[05/10/2016\]
+- [Wave](https://github.com/thedevdojo/wave) - An open-source Software as a Service (SaaS) Starter Kit ([Laravel Spark](https://spark.laravel.com/) alternative) \[04/14/2021\]
 
 ### Database/Eloquent/Models
 - [Analogue](https://github.com/analogueorm/analogue) - Intuitive, fluent data mapper ORM for Laravel and PHP. \[07/15/2015\]
@@ -154,6 +158,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [ODBC Driver](https://github.com/garylocke/odbc-driver) - Laravel 5.x package which provides support for using **any** database via [ODBC](https://en.m.wikipedia.org/wiki/Open_Database_Connectivity). \[07/20/2015\]
 - [PHP Eloquent Repository](https://github.com/nilportugues/php-eloquent-repository) - Repository package for Eloquent for use with Eloquent or plain PHP. \[02/15/2016\]
 - [Query Dumper](https://github.com/sarfraznawaz2005/querydumper) - Output query SQL and results to your view page for debugging. \[09/18/2017\]
+- [](https://github.com/reliese/laravel) - Reliese Laravel Model Generator provides some convenient code-generation capabilities for Laravel models and corresponding database tables. \[04/14/2021\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
 - [Rinvex Repository](https://github.com/rinvex/repository) - Comprehensive and well-documented [repository](https://www.sitepoint.com/repository-design-pattern-demystified/) package (specifically [Active Repository](https://blog.omranic.com/active-repository-is-good-awesomely-usable-6991cfd58774) pattern) for abstracting storage/persistence. \[08/31/2016\]
 - [Searchable](https://github.com/nicolaslopezj/searchable) - a trait for Laravel 4.2+ and Laravel 5.0 that adds a simple search function to Eloquent Models to prioritize fields for searching. \[12/04/2016\]
@@ -437,6 +442,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Database Designer](https://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Online tool for creating database model, including exporting as migration. \[05/16/2015\]
 - [Laravel Dojo](http://www.laravel-dojo.com/) - Tutorials on Laravel in Chinese (English translation [here](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fwww.laravel-dojo.com%2F)).
 - [Laravel Hunt](https://laravel-hunt.com/) - A forum/directory for Laravel tutorials, examples, resources, etc. in the style of [Product Hunt](http://www.producthunt.com/). \[06/08/2015\]
+- [Laravel Playground](https://laravelplayground.com/) - Online interactive tool that allows you to run basic Laravel code. You can even embed your work on other sites. \[10/08/2021\]
 - [Laravel Schema Designer](http://laravelsd.com/) - Online tool for creating Laravel database schema and export the migration.  You can share your schemas with others via the site.
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
 - [Laravel Tricks](http://www.laravel-tricks.com/) - Code snippets, best practices, and tips for Laravel development.
@@ -518,6 +524,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Makers Cabin](https://makerscabin.com/) - Learn full-stack web development using Laravel, Bootstrap, and other popular technologies. \[08/16/2017\]
 - [Mascots](https://mascots.stevil.co/) - An [open-source]() database of mascots of various teams and organizations. \[11/19/2016\]
 - [Maghnatis](http://maghnatis.com/) - Open-source Reddit clone forum application built with Laravel.  (Source code available [here](https://github.com/Halnex/laravel-reddit).) \[10/27/2015\]
+- [Microweber](https://github.com/microweber/microweber) - Open-source drag-and-drop website builder and content management system (CMS) with built-in e-commerce features. \[04/13/2021\]
 - [Monica](https://monicahq.com/) - [Open-source](https://github.com/monicahq/monica) personal CRM for helping you keep track of your friends and family. \[10/02/2017\]
 - [New Movies Coming Out](https://newmoviescomingout.us/) - Directory of US movie releases, including option for weekly e-mail notification. \[04/23/2018\]
 - [OpenDominion](https://opendominion.net/) - [Open-source](https://github.com/WaveHack/OpenDominion), free online text-based strategy game in a medieval fantasy setting where you control a nation ('dominion'). \[11/06/2017\]
@@ -552,6 +559,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Thor CMS](http://thorcms.github.io/) - A multipurpose Laravel 4 CMS platform and CRUD generator with built-in multi-language support. \[04/25/2015\]
 - [TimeGrid.io](http://www.timegrid.io/) - Online reservation-booking application. Open-source application with source code available [here](https://github.com/alariva/timegrid). \[11/23/2015\]
 - [TruckJee](http://www.truckjee.com/) - Similar to Uber for truck transport in India. \[07/12/2016\]
+- [Taskord](https://taskord.com) - Get things done socially with community of makers. \[24/12/2020\]
 - [TweetLater](http://tweetlater.xyz/) - Online tool to schedule sending tweets in the future. \[11/06/2017\]
 - [Vale Brewing](http://valebrewing.com.au/) - Nice, well-structured web site for Australian craft brewer. \[10/20/2015\]
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
@@ -715,6 +723,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ben Smith](http://bensmith.io/) \[07/07/2015\]
 - [Benjamin Kohl](http://benjaminkohl.com/)
 - [Bhavyanshu Parasher](https://bhavyanshu.me/tags.html#laravel-ref) \[04/28/2015\]
+- [Bobby Iliev](https://blog.bobby.sh/) \[04/14/2021\]
 - [Boris Strahija](http://creolab.hr/category/blog/)
 - [Bosnadev](https://bosnadev.com/)
 - [Brian Retterer](http://brianretterer.com/) \[10/02/2015\]
@@ -760,6 +769,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dennis Decoene](http://avidsoftware-be.github.io/) (German/[English translation](https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Favidsoftware-be.github.io%2F)) \[09/10/2015\]
 - [Dennis Smink](https://medium.com/@dennissmink) \[09/13/2018\]
 - [Designing Lives](http://designinglives.net/) \[07/07/2015\]
+- [DevDojo](https://devdojo.com/t/laravel) \[04/13/2021\]
 - [DevMarketer](http://devmarketer.io/learn/category/laravel/) \[09/24/2016\]
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [Dev Problems](http://www.devproblems.com/category/laravel/) \[05/03/2016\]
